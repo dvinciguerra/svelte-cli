@@ -1,0 +1,13 @@
+name: svelte-cli
+version: 0.1.0
+
+authors:
+  - Daniel Vinciguerra <daniel.vinciguerra@bivee.com.br>
+
+targets:
+  svelte-cli:
+    main: src/svelte-cli.cr
+
+crystal: 0.33.0
+
+license: MIT
